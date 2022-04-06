@@ -1,10 +1,16 @@
-<h1 align="center">Hi  👋: I am Dheeraj Tanwar</h1>
+<h1 align="center">Hi 👋 I am Dheeraj Tanwar</h1>
 <h2 align="center"> I am Passionate about Esports :video_game:</h2>
-<h3 align="center">Connect With me</h3>
 <p align="center">
 <a href="https://twitter.com/dheeraj19723494" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" height="60" width="60"/></a>
 <a href="https://linkedin.com/in/dheeraj-tanwar-2b73a2195" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="60" width="60" /></a>
 <a href="https://instagram.com/tanwardheeraj49" target="blank"><img  src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="tanwardheeraj49" height="60" width="60" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" height="60" width="60"/>
 </p>
 
 <!---
