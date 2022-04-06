@@ -2,8 +2,6 @@
 <h2 align="center"> I am Passionate about Esports :video_game:</h2>
 <h3 align="center">Connect With me</h3>
 <p align="center">
-<a href="dheerajtanwar640@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanwardheeraj49" height="30" width="40" /></a>
-</p>
 <a href="https://twitter.com/dheeraj19723494" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" height="60" width="60"/></a>
 <a href="https://linkedin.com/in/dheeraj-tanwar-2b73a2195" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="60" width="60" /></a>
 <a href="https://instagram.com/tanwardheeraj49" target="blank"><img  src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="tanwardheeraj49" height="60" width="60" /></a>
