@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I am Dheeraj Tanwar</h1>
 <h2 align="center"> I am Passionate about Esports :video_game:</h2>
 <p align="center">
-<a href="https://twitter.com/dheeraj19723494" target="blank"><img src="https://icons8.com/icon/phOKFKYpe00C/twitterx.png" height="60" width="60"/></a>
+<a href="https://twitter.com/dheeraj19723494" target="blank"><img src="![image](https://github.com/DheerajTanwar-11/DheerajTanwar-11/assets/68887867/b77b3f16-c30e-4e10-96ba-38d98c1e7e59)
+" height="60" width="60"/></a>
 <a href="https://linkedin.com/in/dheeraj-tanwar-2b73a2195" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="60" width="60" /></a>
 <a href="https://instagram.com/tanwardheeraj49" target="blank"><img  src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="tanwardheeraj49" height="60" width="60" /></a>
 </p>
