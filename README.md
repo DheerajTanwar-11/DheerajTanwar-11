@@ -33,9 +33,11 @@ I am a Technology Enthusiast From India
 
 ---
 ### 🔥My Stats:
+<div>
 [![Dheeraj Tanwar GitHub stats](https://github-readme-stats.vercel.app/api?username=DheerajTanwar-11&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DheerajTanwar-11&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun&card_width=500)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajTanwar-11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 ### 🏆 Achievements:
