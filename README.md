@@ -1,4 +1,4 @@
-<h1 align="center" style="color:Cornflowerblue">Hey There!<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30px" /> I am Dheeraj Tanwar</h1>
+<h1 align="center" style="color:Cornflowerblue">Hey There!<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="35px" /> I am Dheeraj Tanwar</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" width="100" />
 </div>
