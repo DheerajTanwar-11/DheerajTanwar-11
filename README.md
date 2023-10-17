@@ -33,7 +33,7 @@ I am a Technology Enthusiast From India
 
 ---
 ### 🔥My Stats:
-<div style="display:flex;gap:10px;margin-left:10px">
+<div style="display:flex;gap:20px;margin-left:10px">
 <img src="https://github-readme-stats.vercel.app/api?username=DheerajTanwar-11&show_icons=true&theme=dark" width=400px  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajTanwar-11&layout=compact&theme=dark" />
 </div>
