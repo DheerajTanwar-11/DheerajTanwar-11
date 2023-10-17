@@ -11,7 +11,7 @@
 <div align = "center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThrazRyZ2EwazhhanoxZWNlOWxsbG5nc294ejFvbHpscWI0aGI2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></div>
 
 ---
-### 👨‍💻: About Me :
+### 👨‍💻 About Me :
 I am a Technology Enthusiast From India
 - 🔭: Currently learning Full Stack Development
 - 🌱: Exploring new technologies.
@@ -19,7 +19,7 @@ I am a Technology Enthusiast From India
 - 📫: You can reach me at : [dheerajtanwar640@gmail.com](mailto:dheerajtanwar640@gmail.com)
 
 ---
-### 🛠️ : Languages & Tools
+### 🛠️ Languages & Tools
 <div>
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
