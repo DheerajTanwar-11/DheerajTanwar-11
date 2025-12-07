@@ -13,7 +13,7 @@
 ---
 ### 👨‍💻 About Me :
 I am a Technology Enthusiast From India
-- 🔭: Currently learning Full Stack Development
+- 🔭: Currently working as Software Developer.
 - 🌱: Exploring new technologies.
 - ⚡: In my free time, I play games.
 - 📫: You can reach me at : [dheerajtanwar640@gmail.com](mailto:dheerajtanwar640@gmail.com)
